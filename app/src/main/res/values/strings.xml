@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">sokobinite</string>
+    <string name="app_name">sokoban</string>
+    <string name="title">Clicker pour jouer</string>
+    <string name="auteurs">App développé par Daujat Baptiste et Anyaronke Samuel</string>
+    <string name="btnTraining">Entrainement</string>
+    <string name="btnBegin">Commencer</string>
+    <string name="btnOption">Options</string>
 </resources>
