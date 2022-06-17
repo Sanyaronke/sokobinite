@@ -1,8 +1,16 @@
 <resources>
-    <string name="app_name">sokoban</string>
-    <string name="title">Clicker pour jouer</string>
-    <string name="auteurs">App développé par Daujat Baptiste et Anyaronke Samuel</string>
-    <string name="btnTraining">Entrainement</string>
-    <string name="btnBegin">Commencer</string>
-    <string name="btnOption">Options</string>
+    <string name="app_name">Sokoban</string>
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="level_select">Level Select</string>
+
+    <string name="high_scores">High Scores</string>
+    <string name="retry_level">Retry Level</string>
+    <string name="skip_level">Skip Level</string>
+    <string name="win_level">Back to menu</string>
+    <string name="moves">moves</string>
+    <string name="lvl">Level</string>
+    <string name="bstScore">Best Score</string>
+    <string name="undTitle">SOKOBAN</string>
+    <string name="title">Sokoban</string>
 </resources>
